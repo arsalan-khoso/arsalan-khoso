@@ -9,7 +9,14 @@
 
 <br/>
 <h3 align="left">Skills</h3>
-<li><h4>Python</h4></li>
-<li><h4>Selenium</h4></li>
-<li><h4>gspread</h4></li>
-<li><h4>Selenium</h4></li>
+<h1>
+
+<pre>  
+  ☆ Python
+  ☆ Selnium
+  ☆ Beautiful Soup
+  ☆ GSpread
+  ☆ Flask
+  ☆ MySql 
+</pre>
+</h1>
