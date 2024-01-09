@@ -10,7 +10,6 @@
 <br/>
 <h3 align="left">Skills</h3>
 <h1>
-
 <pre>  
   ☆ Python
   ☆ Selnium
