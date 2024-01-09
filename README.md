@@ -9,7 +9,7 @@
 
 <br/>
 <h3 align="left">Skills</h3>
-<h4>Python</h4>
-<h4>Selenium</h4>
-<h4>gspread</h4>
-<h4>Selenium</h4>
+<li><h4>Python</h4></li>
+<li><h4>Selenium</h4></li>
+<li><h4>gspread</h4></li>
+<li><h4>Selenium</h4></li>
