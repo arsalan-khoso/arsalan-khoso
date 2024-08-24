@@ -12,10 +12,14 @@
 <h1>
 <pre>  
   ☆ Python
+  ☆ Django
+  ☆ MySql
+  ☆ React
+  ☆ ORM
+  ☆ DRF
   ☆ Selnium
   ☆ Beautiful Soup
   ☆ GSpread
-  ☆ Flask
-  ☆ MySql 
+  
 </pre>
 </h1>
